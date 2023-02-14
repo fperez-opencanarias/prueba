@@ -7,6 +7,3 @@ dsdsds
 
 dsdds
 dsdsdsdsdsds
-
-sdsd
- sdssds
