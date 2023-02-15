@@ -33,3 +33,4 @@ feat3
 
 hotfix2
 
+release 1.1
