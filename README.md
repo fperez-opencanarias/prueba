@@ -37,3 +37,5 @@ release 1.1
 
 algo
 algo mas
+
+release 1.2
